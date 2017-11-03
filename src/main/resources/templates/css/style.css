@@ -1,9 +1,23 @@
 
 
-.col-md-12{
-    style:paddding-top 100px;
+/*.col-md-12{*/
+    /*style:paddding-top 100px;*/
+/*}*/
+/*.col-md-3{*/
+    /*width:10px!important;*/
+    /*height: 10px!important;*/
+/*}*/
+.size{
+    width:200px;
+    height: 200px;
 }
-.col-md-3{
-    width:10px!important;
-    height: 10px!important;
+.size2
+{
+    width:20px ;
+    height:20px;
 }
+.size3{
+    width: 35px ;
+    height: 35px;
+}
+
